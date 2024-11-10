@@ -43,7 +43,3 @@
 >***Default admin password is : <br/>
  email :admin@test.com <br>
  password: 123456***
-
-**Contributors :**
-
-@AnupamAyank (For functionality testing ).
